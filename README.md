@@ -1,6 +1,6 @@
 # NINTENDO CHALLENGE
 
-Int this repo i will attempt to solve the nintendo challenge as given by:
+In this repo I will attempt to solve the nintendo challenge as given by:
 
 ## Challenge
 
@@ -31,4 +31,4 @@ If there are several possible decoded values, you should display all the possibi
 
 ## Approach
 
-Since I know  nothing about c++ I will use golang to model and solve the problem first
+Since I know nothing about c++ I will use golang to model and solve the problem first
